@@ -41,6 +41,7 @@ group :development, :test do
   gem 'pry'
   gem 'faraday'
   gem 'capybara'
+  gem 'figaro'
 end
 
 group :development do
