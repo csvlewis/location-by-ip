@@ -48,8 +48,6 @@ This file contains the tests that I created for this project. Testing is pretty 
 
 ### Author Information
 
-- Email: 13chlewis@gmail.com
-- Phone: (715) 574-0144
 - Linkedin: https://www.linkedin.com/in/csvlewis/
 - GitHub: https://github.com/csvlewis
 - Portfolio: https://alumni.turing.io/alumni/christopher-lewis
